@@ -1,0 +1,12 @@
+{
+  "name": "davidhub-chat-api",
+  "version": "1.0.0",
+  "description": "API de chat em tempo real pro David Hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
